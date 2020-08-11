@@ -21,18 +21,13 @@
 </br>
 </br>
 
-![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical&count_private=true&hide=star)
+![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical&count_private=true&hide=stars)
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHasanga)](https://github.com/KasunHasanga/github-readme-stats)
 </br>
-## Blog posts 🧑‍💻 🧑‍💻
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
