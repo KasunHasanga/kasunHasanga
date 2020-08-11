@@ -20,10 +20,8 @@
 
 </br>
 </br>
-</br>
-</br>
 
-![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical)
+![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical&count_private=true&hide=star)
 
 
 
