@@ -21,6 +21,10 @@
 </br>
 </br>
 
+![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical)
+
+
+</br>
 ## Blog posts 🧑‍💻 🧑‍💻
 <!-- BLOG-POST-LIST:START -->
 
