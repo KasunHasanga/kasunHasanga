@@ -14,7 +14,7 @@
 [<img align="left" alt="KasunHasanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KasunHasanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="KasunHasanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
-[<img align="left" alt="KasunHasanga | LinkedIn" width="22px" src="https://www.coursera.org/user/20e13501939c05147192ff623f980713" />][Coursera]
+[<img align="left" alt="KasunHasanga | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/coursera.svg" />][Coursera]
 
 
 
