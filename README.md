@@ -30,6 +30,12 @@
 </br>
 
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://kasunhasanga.wordpress.com
 [twitter]: https://twitter.com/Kasun_hasanga
