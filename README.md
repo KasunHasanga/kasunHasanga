@@ -33,8 +33,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Unlimited Generation](https://kasunhasanga.wordpress.com/2020/06/09/unlimited-generation/)
+- [Challenge Accepted(Social Media)](https://kasunhasanga.wordpress.com/2020/05/01/challenge-acceptedsocial-media/)
+- [RHackaDev COVID-19 Innovation Challenge](https://kasunhasanga.wordpress.com/2020/04/29/hackadev-covid-19-innovation-challenge/)
+- [Learn with Google Garage(https://kasunhasanga.wordpress.com/2020/04/29/learn-with-google-garage/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://kasunhasanga.wordpress.com/)
 
 
 [website]: https://kasunhasanga.wordpress.com
