@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a University Projects🧑🏻‍💻 and my own🙋🏻‍♂️🤞🏻!
 - 🌱 I’m currently learning everything  🤣
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowldge Seekers🧑🏻‍🔬 👨🏻‍🔬
-- 🥅 2020 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
+- 🥅 2021 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
 
 ### Connect with me:
