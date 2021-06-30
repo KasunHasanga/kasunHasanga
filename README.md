@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowldge Seekers🧑🏻‍🔬 👨🏻‍🔬
 - 🥅 2021 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
+</br></br>
 
 ### Connect with me:
 
@@ -17,28 +18,7 @@
 [<img align="left" alt="KasunHasanga | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="KasunHasanga | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
 
-
-
-<!-- [<img align="left" alt="KasunHasanga | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/coursera.svg" />][Coursera] -->
-
 </br>
-</br>
-
-![Kasun Hasanga's github stats](https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=radical&count_private=true&hide=stars)
-
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Unlimited Generation](https://kasunhasanga.wordpress.com/2020/06/09/unlimited-generation/)
-- [Challenge Accepted(Social Media)](https://kasunhasanga.wordpress.com/2020/05/01/challenge-acceptedsocial-media/)
-- [HackaDev COVID-19 Innovation Challenge](https://kasunhasanga.wordpress.com/2020/04/29/hackadev-covid-19-innovation-challenge/)
-- [Learn with Google Garage](https://kasunhasanga.wordpress.com/2020/04/29/learn-with-google-garage/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://kasunhasanga.wordpress.com/)
-
 
 [website]: https://kasunhasanga.wordpress.com
 [twitter]: https://twitter.com/Kasun_hasanga
