@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
 </br></br>
+![github contribution grid snake animation](https://raw.githubusercontent.com/KasunHasanga/KasunHasanga/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
