@@ -9,16 +9,16 @@
 </br>
 
 <p align="center">
-  <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/visits/kasunHasanga/dimkagithub?logo=GitHub&style=plastic&a=0">
+  <a href="https://github.com/kasunHasanga">
+    <img src="https://badges.pufler.dev/visits/kasunHasanga/kasunHasanga">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/kasunHasanga">
     <img src="https://badges.pufler.dev/years/kasunHasanga?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/kasunHasanga">
     <img src="https://badges.pufler.dev/repos/kasunHasanga?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/kasunHasanga">
     <img src="https://badges.pufler.dev/commits/monthly/kasunHasanga?logo=GitHub&style=plastic&a=0">
   </a>
 
