@@ -4,9 +4,24 @@
 - 🔭 I’m currently working on a University Projects🧑🏻‍💻 and my own🙋🏻‍♂️🤞🏻!
 - 🌱 I’m currently learning everything  🤣
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowldge Seekers🧑🏻‍🔬 👨🏻‍🔬
-- 🥅 2021 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
+- 🥅 2022 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
-</br></br>
+</br>
+
+<p align="center">
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/visits/kasunHasanga/dimkagithub?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/years/kasunHasanga?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/repos/kasunHasanga?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/commits/monthly/kasunHasanga?logo=GitHub&style=plastic&a=0">
+  </a>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/KasunHasanga/KasunHasanga/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
