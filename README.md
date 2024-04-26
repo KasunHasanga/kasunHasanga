@@ -1,10 +1,11 @@
-### Hi, I'm Kasun Hasanga 🧑‍💻; I'm Graduate🎓 from Sabaragamuwa University Of Sri Lanka Faculty of Computing 👋
+### Hi, I'm Kasun Hasanga 🧑‍💻;FinTech Mobile Developer in Saberion(Sri Lanka) ;
+Graduate🎓 from Sabaragamuwa University Of Sri Lanka Faculty of Computing 👋
 
 ## I'm a Student, Mobile App Developer, and Volunteer!
 - 🔭 I’m mostly doing stuff with the mobile banking side with Flutter🙋🏻‍♂️🤞🏻!
 - 🌱 I’m currently learning everything  🤣
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowledge Seekers🧑🏻‍🔬 👨🏻‍🔬
-- 🥅 2023 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
+- 🥅 2024 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
 </br>
 
