@@ -25,6 +25,12 @@ Graduate🎓 from Sabaragamuwa University Of Sri Lanka Faculty of Computing 👋
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/KasunHasanga/KasunHasanga/output/github-contribution-grid-snake.svg)
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KasunHasanga&theme=vue"/>
+</p>
+
+
 ### Connect with me:
 
 [<img align="left" alt="KasunHasanga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,8 +40,6 @@ Graduate🎓 from Sabaragamuwa University Of Sri Lanka Faculty of Computing 👋
 [<img align="left" alt="KasunHasanga | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 [<img align="left" alt="KasunHasanga | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="KasunHasanga | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
-
-</br>
 
 [website]: https://kasunhasanga.wordpress.com
 [twitter]: https://twitter.com/Kasun_hasanga
