@@ -1,51 +1,43 @@
-### Hi, I'm Kasun Hasanga 🧑‍💻; FinTech Mobile Developer in Saberion(Sri Lanka) ;
-Graduate🎓 from Sabaragamuwa University Of Sri Lanka Faculty of Computing 👋
+# Hi, I'm Kasun Hasanga 🧑‍💻  
+### FinTech Mobile Developer (Sri Lanka) | Flutter Enthusiast 🚀  
 
-## I'm a Student, Mobile App Developer, and Volunteer!
-- 🔭 I’m mostly doing stuff with the mobile banking side with Flutter🙋🏻‍♂️🤞🏻!
-- 🌱 I’m currently learning everything  🤣
-- 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowledge Seekers🧑🏻‍🔬 👨🏻‍🔬
-- 🥅 2025 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
-- ⚡ Fun fact: I love to help Others👫🏻 , Swimming🤽🏻‍♂️ ,Cycling 🚵🏻‍♂️ and Traveling  🧗🏻 🤩
-</br>
+🎓 Graduate – Faculty of Computing, Sabaragamuwa University of Sri Lanka  
 
-<p align="center">
-  <a href="https://github.com/kasunHasanga">
-    <img src="https://badges.pufler.dev/visits/kasunHasanga/kasunHasanga">
-  </a>
-  <a href="https://github.com/kasunHasanga">
-    <img src="https://badges.pufler.dev/years/kasunHasanga?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/kasunHasanga">
-    <img src="https://badges.pufler.dev/repos/kasunHasanga?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/kasunHasanga">
-    <img src="https://badges.pufler.dev/commits/monthly/kasunHasanga?logo=GitHub&style=plastic&a=0">
-  </a>
+---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/KasunHasanga/KasunHasanga/output/github-contribution-grid-snake.svg)
+## 👨‍💻 About Me  
+- 🔭 Currently working on **mobile banking apps** using Flutter  
+- 🌱 Always learning & exploring new tech  
+- 👯 Open to collaborating with **motivated developers & knowledge seekers**  
+- 🥅 2025 Goal: **Contribute more to Open Source projects**  
+- ⚡ Fun fact: I enjoy **helping others**, Swimming 🤽🏻‍♂️, Cycling 🚵🏻‍♂️, and Traveling 🧗🏻  
 
-## 💳 Github Profile Summary Card
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KasunHasanga&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunHasanga&show_icons=true&theme=vue&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasunHasanga&theme=vue&hide_border=true" height="160"/>
 </p>
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/KasunHasanga/KasunHasanga/output/github-contribution-grid-snake.svg)
 
-### Connect with me:
+---
 
-[<img align="left" alt="KasunHasanga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KasunHasanga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KasunHasanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KasunHasanga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="KasunHasanga | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
-[<img align="left" alt="KasunHasanga | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="KasunHasanga | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
+## 🔗 Connect With Me  
 
-[website]: https://kasunhasanga.wordpress.com
-[twitter]: https://twitter.com/Kasun_hasanga
-[linkedin]: https://www.linkedin.com/in/kasun-hasanga/
-[Facebook]: https://www.facebook.com/kasun.hasanga.1
-[StackOverFlow]: https://stackoverflow.com/users/11168442/kasun-hasanga
-[gitlab]: https://gitlab.com/kasun_hasanga
-[HackerRank]: https://www.hackerrank.com/kasunhasanga96
-<!-- [Coursera]: https://www.coursera.org/user/20e13501939c05147192ff623f980713 -->
+<p align="left">
+  <a href="https://kasunhasanga.wordpress.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://twitter.com/Kasun_hasanga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kasun-hasanga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/kasun.hasanga.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/11168442/kasun-hasanga"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://gitlab.com/kasun_hasanga"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/kasunhasanga96"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
