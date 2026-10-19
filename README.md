@@ -2,13 +2,13 @@
 ### Senior Mobile Software Engineer | FinTech & Digital Banking 📱💳  
 🇱🇰 Sri Lanka  
 
-🚀 Flutter specialist with **4+ years** of experience building **secure, scalable, production-grade mobile apps** for **digital banking, fintech, and healthcare** platforms used by thousands of users.
+🚀 Flutter specialist with **5+ years** of experience building **secure, scalable, production-grade mobile apps** for **digital banking, fintech, and healthcare** platforms used by thousands of users.
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 💼 **Software Engineer – Mobile (Flutter)**  
+- 💼 **Sr. Software Engineer – Mobile (Flutter)**  
 - 🏦 Actively building **digital banking & payment platforms**  
 - 🔐 Strong focus on **security** (root detection, biometrics, secure auth flows)  
 - ☁️ Experience with **AWS & GCP** integrations  
@@ -21,7 +21,7 @@
 
 ## 🏢 Professional Experience  
 
-### **Software Engineer – Mobile (Flutter)**  
+### **Sr. Software Engineer – Mobile (Flutter)**  
 **JIT Resourcing & Consultancy Services** · *Mar 2025 – Present*  
 
 - **FRIMI** – Sri Lanka’s first fully-fledged digital banking app  
